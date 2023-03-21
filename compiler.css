@@ -1,0 +1,49 @@
+#parent {
+    margin: auto;
+    width: 90%;
+    border: 2px solid red;
+    justify-content: center;
+    display: flex;
+    display: block;
+}
+
+h5 {
+    margin-left: 4px;
+}
+
+
+h6 {
+  
+    width: 40px;
+    margin: auto;
+}
+
+
+textarea {
+    margin-left: 4px;
+    width: 92%;
+    height: 92%;
+}
+
+#header {
+    display: inline;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+#rbtn {
+    margin-left: 90%;
+    background-color: #fffe59fc;
+    height: fit-content;
+    width: fit-content;
+}
+
+#out {
+    margin: 2px;
+    border: 2px solid rebeccapurple;
+    height: fit-content;
+
+}
+
